@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  flex-wrap: wrap;
+  padding: 100px;
+}
+.secundar {
+  background-color: #eee;
+}
+.btn {
+  margin: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+}
+.titlu {
+  text-decoration: underline;
+  font-size: 2rem;
+}
+.formular {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ddd;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.card-link {
+  color: rgb(16, 16, 224);
+  cursor: pointer;
+}
